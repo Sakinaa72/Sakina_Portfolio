@@ -47,12 +47,12 @@ export default function Portfolio() {
                   Get In Touch
                 </a>
               </Button>
-              <Button variant="outline" size="lg" asChild>
+              {/* <Button variant="outline" size="lg" asChild>
                 <a href="tel:+919370604900" className="flex items-center gap-2">
                   <Phone className="w-4 h-4" />
                   +91 9370604900
                 </a>
-              </Button>
+              </Button> */}
             </div>
 
             <div className="flex gap-4">
